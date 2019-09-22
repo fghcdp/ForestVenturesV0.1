@@ -1,0 +1,10 @@
+rdbhost = "127.0.0.1"
+rdbuser = "bybitbot"
+rdbpassword = "bybitbotpass"
+rdbdatabase = "bybit_testnet_bot"
+rdbcharset = "utf8"
+
+BYBIT_BTC = "BTCUSD"
+BYBIT_ETH = "ETHUSD"
+BYBIT_EOS = "EOSUSD"
+BYBIT_XRP = "XRPUSD"
